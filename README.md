@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kedo
+- 👋 Hi, I’m @kedo1
 - 👀 I’m interested in guile
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on noone
