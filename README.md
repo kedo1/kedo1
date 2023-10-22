@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @k
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @kedo
+- 👀 I’m interested in guile
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on noone
+- 📫 How to reach me no way
 
 <!---
 kedo1/kedo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
